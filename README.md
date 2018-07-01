@@ -1,0 +1,2 @@
+# GlobalsightLocalization_20180701
+用python3程序调用有道和必应翻译api初步实现了Globalsight英文网页的中文本地化
