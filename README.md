@@ -1,4 +1,7 @@
-# GlobalsightLocalization: 程序用 python3 语言调用有道翻译 api 和必应翻译 api 初步实现了 Globalsight 英文网站的中文本地化
+# GlobalsightLocalization: Globalsight 英文网站的中文本地化
+
+## 程序功能
+程序用 python3 语言调用有道翻译 api 和必应翻译 api 初步实现了 Globalsight 英文网站的中文本地化
 
 ## 文件结构说明
 
@@ -9,7 +12,7 @@
 - 运行test.py后会生成LocaleResource_zh_CH.properties文件，即中文本地化后的文件
 
 
-## 本程序功能特点
+## 程序特点
 
 - 注释十分完整，适当处有差错控制。
 - 程序中共用到了六个正则表达式匹配，皆提取出来并放进了一个函数里，方便日后更新和查看。
