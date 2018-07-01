@@ -1,0 +1,4 @@
+helper_text_file_profile = File Profiles tell GlobalSight what kind of file will be routed through the system. In each profile, you will specify the format of the file (HTML, XML, Text), the encoding of the file (UTF8, Shift-JIS), and the file extension (.html, .xml, .txt).
+
+msg_no_source_page=<html>The file is not available to be accessed now. <br>Reason: has been deleted or is being updated.</html>
+
