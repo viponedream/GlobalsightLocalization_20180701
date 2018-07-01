@@ -32,5 +32,5 @@
 
 - '<.*>' —— 判断该行是否含标签，如有则将等号右边的内容传入必应翻译api，原因是必应翻译比有道翻译识别标签的效果更好些，必应不会翻译出标签内的内容。
 
-- 'termbase|Termbase' —— 翻译api没法翻译termbase和Termbase两个术语，此正则表达式用来手动手动对机翻结果进行替换。
+- 'termbase|Termbase' —— 翻译api没法翻译termbase和Termbase两个术语，此正则表达式用来手动对机翻结果进行替换。
 
