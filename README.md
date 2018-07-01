@@ -1,7 +1,7 @@
-# GlobalsightLocalization: Globalsight 英文网站的中文本地化
+# GlobalsightLocalization: Globalsight 英文网页的中文本地化
 
 ## 程序功能
-程序用 python3 语言调用有道翻译 api 和必应翻译 api 初步实现了 Globalsight 英文网站的中文本地化
+程序用 python3 语言调用有道翻译 api 和必应翻译 api 初步实现了 Globalsight 英文网页的中文本地化
 
 ## 文件结构说明
 
